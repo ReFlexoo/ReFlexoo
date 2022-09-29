@@ -1,3 +1,9 @@
+## Salve! Aqui é o ReFlexoo.
+<div align="center">
+  <a href="https://github.com/ReFlexoo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ReFlexoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReFlexoo&layout=compact&langs_count=7&theme=dark"/>
+</div>
 <div> 
   <a href="[https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q](https://www.youtube.com/channel/UCkocFbA49xSYzaWqhF1-ogg)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
